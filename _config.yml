@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Rian Finnegan Info"
+description: "Creation begins with design; it evolves; it fails; it strives for form and function; and is, at once, an art and a science."
 
 # Build settings
 markdown: kramdown
@@ -9,11 +9,11 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_avatar:                  "false"
+resume_name:                    "Rian JP Finnegan"
+resume_title:                   "Maker Developer Engineer"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "rianfinnegan@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -34,13 +34,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/xtellurian/"
+  resume_twitter_url:           "http://twitter.com/xtellurian"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:      "https://au.linkedin.com/in/rian-finnegan-97651b55"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://rianfinnegan.info"
 
 # Design settings
 resume_theme:                   default
